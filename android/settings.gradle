@@ -1,0 +1,3 @@
+rootProject.name = 'KeeperOfDogsLife'
+
+include ':app'
